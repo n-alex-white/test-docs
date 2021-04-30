@@ -6,6 +6,8 @@ The customer profile is created upon registration. The customer is able to updat
 
 The system distinguishes between regular customers and test customers because we support testing in production for all our systems. Test customers have -ve customer ids, which is how we are able to distinguish them throughout our estate. 
 
+(modified on a branch, merging into master)
+
 
 ## Consumers
 
