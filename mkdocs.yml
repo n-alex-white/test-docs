@@ -1,5 +1,5 @@
 site_name: "TestDocs"
-site_description: "This is a test docs"
+site_description: "This is a test doc"
 
 nav:
   - Introduction: index.md
