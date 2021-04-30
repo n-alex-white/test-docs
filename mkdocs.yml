@@ -1,5 +1,5 @@
-site_name: "TestDocs"
-site_description: "This is a test doc"
+site_name: "Profile Service"
+site_description: "These are all the test documents which belong to the profile service"
 
 nav:
   - Introduction: index.md
