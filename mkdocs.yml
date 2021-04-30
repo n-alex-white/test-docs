@@ -3,6 +3,7 @@ site_description: "These are all the test documents which belong to the profile 
 
 nav:
   - Introduction: index.md
+  - Profile: profile.md
 
 plugins:
   - techdocs-core
