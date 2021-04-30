@@ -1,6 +1,4 @@
-## TestDocs
-
-This is a test docs
+This is the home page for my test edition of tech docs, playing around with Backstage
 
 ## Getting started
 
